@@ -1,0 +1,8 @@
+Aula 1 - Introdução a Visão Computacional
+Fase 1 - IA Foundations
+Capítulo: Computer Vision
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=596016&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=596022
+
+Obs.: links exigem login na plataforma FIAP.

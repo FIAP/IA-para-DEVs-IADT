@@ -1,0 +1,8 @@
+Aula 1 - Introdução ao Desenvolvimento de Aprendizado de Máquina (ML) na Nuvem.
+Fase 2 - Evolução da IA
+Capítulo: Desenvolvimento de ML na cloud
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=610486&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=610489
+
+Obs.: links exigem login na plataforma FIAP.

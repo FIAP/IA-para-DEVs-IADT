@@ -1,0 +1,8 @@
+Aula 2 - Fundamentos da API do OpenAI
+Fase 4 - AI Text & Media
+Capítulo: Open API
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=648361&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=648366
+
+Obs.: links exigem login na plataforma FIAP.

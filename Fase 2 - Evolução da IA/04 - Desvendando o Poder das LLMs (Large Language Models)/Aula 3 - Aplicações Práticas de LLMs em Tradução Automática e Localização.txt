@@ -1,0 +1,8 @@
+Aula 3 - Aplicações Práticas de LLMs em Tradução Automática e Localização
+Fase 2 - Evolução da IA
+Capítulo: Desvendando o Poder das LLMs (Large Language Models)
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=610495&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=610500
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 2 - Configuração e primeiros passos
+Fase 3 - Generative AI
+Capítulo: LangGraph
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=622232&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=622236
+
+Obs.: links exigem login na plataforma FIAP.

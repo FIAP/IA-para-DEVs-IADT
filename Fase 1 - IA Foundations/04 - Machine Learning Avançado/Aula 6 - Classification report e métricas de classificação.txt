@@ -1,0 +1,8 @@
+Aula 6 - Classification report e métricas de classificação
+Fase 1 - IA Foundations
+Capítulo: Machine Learning Avançado
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=596006&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=596013
+
+Obs.: links exigem login na plataforma FIAP.

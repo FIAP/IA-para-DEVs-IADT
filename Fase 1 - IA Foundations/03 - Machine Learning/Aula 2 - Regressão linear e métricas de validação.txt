@@ -1,0 +1,8 @@
+Aula 2 - Regressão linear e métricas de validação
+Fase 1 - IA Foundations
+Capítulo: Machine Learning
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=595992&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=595996
+
+Obs.: links exigem login na plataforma FIAP.

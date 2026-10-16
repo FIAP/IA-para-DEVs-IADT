@@ -1,0 +1,8 @@
+Aula 1 - Conceitos básicos e aplicações
+Fase 1 - IA Foundations
+Capítulo: Machine Learning
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=595991&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=595995
+
+Obs.: links exigem login na plataforma FIAP.

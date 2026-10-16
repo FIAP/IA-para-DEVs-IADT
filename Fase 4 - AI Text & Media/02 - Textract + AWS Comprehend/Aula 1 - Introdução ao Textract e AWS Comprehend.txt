@@ -1,0 +1,8 @@
+Aula 1 - Introdução ao Textract e AWS Comprehend
+Fase 4 - AI Text & Media
+Capítulo: Textract + AWS Comprehend
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=648352&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=648355
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 4 - Representação de Indivíduos e Codificação de Genes
+Fase 2 - Evolução da IA
+Capítulo: Introdução algoritmo genético
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=610475&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=610480
+
+Obs.: links exigem login na plataforma FIAP.

@@ -1,0 +1,8 @@
+Aula 2 - Visão geral das Plataformas de Nuvem para ML: AWS, Azure, Google Cloud.
+Fase 2 - Evolução da IA
+Capítulo: Desenvolvimento de ML na cloud
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=610487&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=610490
+
+Obs.: links exigem login na plataforma FIAP.

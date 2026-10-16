@@ -1,0 +1,8 @@
+Aula 3 - Utilizando recursos escaláveis e de alto desempenho.
+Fase 2 - Evolução da IA
+Capítulo: Desenvolvimento de ML na cloud
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=610488&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=610491
+
+Obs.: links exigem login na plataforma FIAP.

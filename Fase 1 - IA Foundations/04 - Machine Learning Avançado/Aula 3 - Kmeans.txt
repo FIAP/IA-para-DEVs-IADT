@@ -1,0 +1,8 @@
+Aula 3 - Kmeans
+Fase 1 - IA Foundations
+Capítulo: Machine Learning Avançado
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=596003&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=596010
+
+Obs.: links exigem login na plataforma FIAP.

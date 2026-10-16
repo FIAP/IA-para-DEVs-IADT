@@ -1,0 +1,8 @@
+Aula 5 - Validação Cruzada e Pipeline no Sklearn
+Fase 1 - IA Foundations
+Capítulo: Machine Learning Avançado
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=596005&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=596012
+
+Obs.: links exigem login na plataforma FIAP.

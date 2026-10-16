@@ -1,0 +1,8 @@
+Aula 6 - Criação de Agents
+Fase 3 - Generative AI
+Capítulo: LangChain na prática
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=622223&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=622229
+
+Obs.: links exigem login na plataforma FIAP.

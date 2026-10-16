@@ -1,0 +1,8 @@
+Aula 2 - Boas Práticas e Chains of Thought com Base Científica em LLMs.
+Fase 3 - Generative AI
+Capítulo: O Chat-GPT: Como extrair o máximo da ferramenta no seu dia-a-dia
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=622140&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=622144
+
+Obs.: links exigem login na plataforma FIAP.

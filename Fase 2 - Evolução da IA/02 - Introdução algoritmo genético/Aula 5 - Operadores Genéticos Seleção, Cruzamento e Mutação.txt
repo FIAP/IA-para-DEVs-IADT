@@ -1,0 +1,8 @@
+Aula 5 - Operadores Genéticos: Seleção, Cruzamento e Mutação
+Fase 2 - Evolução da IA
+Capítulo: Introdução algoritmo genético
+
+Conteúdo (HTML): https://on.fiap.com.br/mod/conteudoshtml/view.php?id=610476&sesskey=XPGXRqAzGE
+E-Book (PDF): https://on.fiap.com.br/mod/conteudospdf/view.php?id=610481
+
+Obs.: links exigem login na plataforma FIAP.
