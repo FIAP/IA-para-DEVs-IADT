@@ -1,4 +1,4 @@
-# [Nome do curso] - [CURSO]
+# IA para DEVs - IADT
 
 Este repositório contém o materiais complementares divididos por fases, categorias e aulas.
 
